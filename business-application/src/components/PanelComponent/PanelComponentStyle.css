@@ -1,0 +1,29 @@
+
+.p-panel{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.p-panel-content{
+    height: 800px;
+}
+
+.float-right{
+    float: right;
+}
+
+.card-left-style{
+    float: left;
+    display: inline;
+    width: 33%;
+    margin-right: 20px;
+}
+
+.card-right-style{
+    float: left;
+    display: inline;
+    width: 33%;
+}
+
